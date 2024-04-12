@@ -15,7 +15,7 @@ nav{
 
 nav ul{
     display: flex;
-    align-items: center;
+    align-items: center ;
     list-style-type: none;
     height: 65px;
     background-color: black;
